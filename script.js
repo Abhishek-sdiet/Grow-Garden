@@ -68,7 +68,7 @@ let swiper = new Swiper(".home-slider", {
     },
     loop: true,
 });
-let countDate = new Date('dec 31, 2024 00:00:00').getTime();
+let countDate = new Date('dec 31, 2026 00:00:00').getTime();
 
 function countDown() {
 
