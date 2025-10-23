@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "674d709693de0ff8af043a9e"
+  },
+  "name": "Aloe Vera",
+  "common_name": "Aloe Vera",
+  "scientific_name": "Aloe barbadensis miller",
+  "category": "Succulent",
+  "care_instructions": "Water every 3 weeks. Prefers bright, indirect sunlight.",
+  "price": 15.99,
+  "stock": 50,
+  "size": "Medium",
+  "image_url": "https://example.com/images/aloe-vera.jpg",
+  "description": "Aloe Vera is known for its medicinal properties, especially for treating burns.",
+  "is_available": true
+},
+{
+  "_id": {
+    "$oid": "674d709693de0ff8af043a9f"
+  },
+  "name": "Fiddle Leaf Fig",
+  "common_name": "Fiddle Leaf Fig",
+  "scientific_name": "Ficus lyrata",
+  "category": "Tree",
+  "care_instructions": "Water weekly, prefers bright, indirect light. Avoid drafts.",
+  "price": 120,
+  "stock": 30,
+  "size": "Large",
+  "image_url": "https://example.com/images/fiddle-leaf-fig.jpg",
+  "description": "A popular indoor tree, known for its large, glossy leaves.",
+  "is_available": true
+},
+{
+  "_id": {
+    "$oid": "674d709693de0ff8af043aa0"
+  },
+  "name": "Spider Plant",
+  "common_name": "Spider Plant",
+  "scientific_name": "Chlorophytum comosum",
+  "category": "Houseplant",
+  "care_instructions": "Water every 2 weeks, prefers moderate indirect light.",
+  "price": 10.99,
+  "stock": 100,
+  "size": "Small",
+  "image_url": "https://example.com/images/spider-plant.jpg",
+  "description": "Known for its air-purifying properties and attractive arching leaves.",
+  "is_available": true
+},
+{
+  "_id": {
+    "$oid": "674d709693de0ff8af043aa1"
+  },
+  "name": "Rose",
+  "common_name": "Rose",
+  "scientific_name": "Rosa spp.",
+  "category": "Flowering",
+  "care_instructions": "Water regularly, prefers full sun.",
+  "price": 18.5,
+  "stock": 40,
+  "size": "Medium",
+  "image_url": "https://example.com/images/rose.jpg",
+  "description": "A symbol of love, roses come in various colors and sizes.",
+  "is_available": true
+},
+{
+  "_id": {
+    "$oid": "674d709693de0ff8af043aa2"
+  },
+  "name": "Snake Plant",
+  "common_name": "Snake Plant",
+  "scientific_name": "Sansevieria trifasciata",
+  "category": "Houseplant",
+  "care_instructions": "Water once a month, thrives in low light.",
+  "price": 14.99,
+  "stock": 60,
+  "size": "Medium",
+  "image_url": "https://example.com/images/snake-plant.jpg",
+  "description": "A hardy houseplant with upright, sword-shaped leaves.",
+  "is_available": true
+},
+{
+  "_id": {
+    "$oid": "674d709693de0ff8af043aa3"
+  },
+  "name": "Basil",
+  "common_name": "Basil",
+  "scientific_name": "Ocimum basilicum",
+  "category": "Herb",
+  "care_instructions": "Water regularly, prefers full sunlight.",
+  "price": 5,
+  "stock": 200,
+  "size": "Small",
+  "image_url": "https://example.com/images/basil.jpg",
+  "description": "A fragrant herb commonly used in cooking, especially Italian dishes.",
+  "is_available": true
+},
+{
+  "_id": {
+    "$oid": "674d709693de0ff8af043aa4"
+  },
+  "name": "Cactus",
+  "common_name": "Cactus",
+  "scientific_name": "Cactaceae family",
+  "category": "Succulent",
+  "care_instructions": "Water once every 3 weeks, prefers full sun.",
+  "price": 12.99,
+  "stock": 75,
+  "size": "Small",
+  "image_url": "https://example.com/images/cactus.jpg",
+  "description": "Cacti are low-maintenance plants that thrive in dry, sunny conditions.",
+  "is_available": true
+},
+{
+  "_id": {
+    "$oid": "674d709693de0ff8af043aa5"
+  },
+  "name": "Lavender",
+  "common_name": "Lavender",
+  "scientific_name": "Lavandula angustifolia",
+  "category": "Herb",
+  "care_instructions": "Water weekly, requires full sun and well-drained soil.",
+  "price": 7.99,
+  "stock": 120,
+  "size": "Medium",
+  "image_url": "https://example.com/images/lavender.jpg",
+  "description": "Known for its beautiful purple flowers and calming fragrance.",
+  "is_available": true
+},
+{
+  "_id": {
+    "$oid": "674d709693de0ff8af043aa6"
+  },
+  "name": "Peace Lily",
+  "common_name": "Peace Lily",
+  "scientific_name": "Spathiphyllum spp.",
+  "category": "Houseplant",
+  "care_instructions": "Water when soil is dry, moderate to low indirect light.",
+  "price": 25,
+  "stock": 40,
+  "size": "Medium",
+  "image_url": "https://example.com/images/peace-lily.jpg",
+  "description": "An elegant indoor plant known for its air-purifying abilities.",
+  "is_available": true
+},
+{
+  "_id": {
+    "$oid": "674d709693de0ff8af043aa7"
+  },
+  "name": "Pothos",
+  "common_name": "Golden Pothos",
+  "scientific_name": "Epipremnum aureum",
+  "category": "Houseplant",
+  "care_instructions": "Water every 2 weeks, thrives in low to medium light.",
+  "price": 8.99,
+  "stock": 150,
+  "size": "Small",
+  "image_url": "https://example.com/images/pothos.jpg",
+  "description": "A popular low-maintenance houseplant with trailing vines and heart-shaped leaves.",
+  "is_available": true
+}]
